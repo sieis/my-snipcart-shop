@@ -1,10 +1,18 @@
 [
-    {
-      "id": "HIGHFIVE",
-      "name": "Breakfast High Five",
-      "price": 19.99,
-      "image": "/img/products/Breakfast-High-Five.jpg",
-      "description": "Toasted Almond, Dried Raspberry, Cocoa flavors all wrapped up and ready to jump-start your morning with the force of a thousand high-fives!",
-      "product_url": "/"
-    }
-  ]
+	{
+		"id": "HIGHFIVE",
+		"name": "Breakfast High Five",
+		"price": 19.99,
+		"image": "/img/products/Breakfast-High-Five.jpg",
+		"description": "Toasted Almond, Dried Raspberry, Cocoa flavors all wrapped up and ready to jump-start your morning with the force of a thousand high-fives!",
+		"product_url": "/"
+	},
+	{
+		"id": "FROSTY",
+		"name": "Frosty's Favorite",
+		"price": "19.99",
+		"image": "/uploads/frostys-favorite.jpg",
+		"description": "White Chocolate and Cinnamon flavored Coffee.",
+		"product_url": ""
+	}
+]
